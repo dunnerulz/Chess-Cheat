@@ -22,15 +22,15 @@ A simple JS-based chess engine and analysis tool. Built purely for educational p
 
 **Supported Websites**
 
-- Lichess: Full support (detects cg-board).
+- Lichess and Chess.com: Full support 
 
-- Others: Generic support for sites using standard piece classes (experimental).
+- Others: Generic support for other sites.
 
 **Installation**
 
 1. Clone or download this repo.
 
-2. Open Chrome/Brave/Edge and go to chrome://extensions.
+2. Open Chrome and go to chrome://extensions.
 
 3. Enable Developer mode in the top right.
 
