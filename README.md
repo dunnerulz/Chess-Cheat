@@ -1,5 +1,9 @@
 **Chess Cheat**
 
+<img width="1194" height="1180" alt="image" src="https://github.com/user-attachments/assets/ee10353d-20bd-463a-95df-bc0118140897" />
+
+<img width="1054" height="1050" alt="image" src="https://github.com/user-attachments/assets/6d28ec60-4b21-45d9-9409-8f9ce5696486" />
+
 A simple JS-based chess engine and analysis tool. Built purely for educational purposes to understand how chess engines interact with DOM elements.
 
 **!! DISCLAIMER:** This is for educational use only. Using this in rated games against other people is cheating and will get you banned. I am not responsible for your account status. Don't be an idiot.
