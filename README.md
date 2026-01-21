@@ -1,48 +1,48 @@
-Chess Cheat
+**Chess Cheat**
 
 A simple JS-based chess engine and analysis tool. Built purely for educational purposes to understand how chess engines interact with DOM elements.
 
-!! DISCLAIMER: This is for educational use only. Using this in rated games against other people is cheating and will get you banned. I am not responsible for your account status. Don't be an idiot.
+**!! DISCLAIMER:** This is for educational use only. Using this in rated games against other people is cheating and will get you banned. I am not responsible for your account status. Don't be an idiot.
 
-Features
+**Features**
 
-Stockfish-like Analysis: Runs Wukong JS engine locally in your browser.
+**- Engine Analysis:** Runs a modified Wukong JS engine locally in your browser.
 
-Book Moves: Fetches opening book moves from Lichess database.
+**- Book Moves:** Fetches opening book moves from Lichess database.
 
-Visual ESP: Draws arrows on the board for best moves and book moves.
+**- Engine Arrows:** Draws arrows on the board for best moves and book moves.
 
-Draggable UI: Simple overlay box to control depth and view logs.
+**- Draggable UI:** Simple overlay box to control depth and view logs.
 
-Auto-detection: Automatically detects board state and side to move.
+**- Auto-detection:** Automatically detects board state and side to move.
 
-Supported Websites
+**Supported Websites**
 
-Lichess: Full support (detects cg-board).
+- Lichess: Full support (detects cg-board).
 
-Others: Generic support for sites using standard piece classes (experimental).
+- Others: Generic support for sites using standard piece classes (experimental).
 
-Installation
+**Installation**
 
-Clone or download this repo.
+1. Clone or download this repo.
 
-Open Chrome/Brave/Edge and go to chrome://extensions.
+2. Open Chrome/Brave/Edge and go to chrome://extensions.
 
-Enable Developer mode in the top right.
+3. Enable Developer mode in the top right.
 
-Click Load unpacked.
+4. Click Load unpacked.
 
-Select the folder containing these files.
+5. Select the folder containing these files.
 
-Usage
+**Usage**
 
-Go to a supported chess site.
+1. Go to a supported chess site.
 
-The overlay should appear automatically.
+2. The overlay should appear automatically.
 
-Click the extension icon if you need to toggle the UI.
+3. Click the extension icon if you need to toggle the UI.
 
-Use the slider to adjust engine depth.
+4. Use the slider to adjust engine depth.
 
 License
 
